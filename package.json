@@ -1,0 +1,32 @@
+{
+  "name": "KeychainSharing",
+  "version": "1.0.2",
+  "description": " Cordova plugin to add the Keychain Sharing entitlement.
+    And a few methods for interacting with the Keychain.",
+  "cordova": {
+    "id": "cordova-plugin-keychainsharing",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rs743/Keychain-Sharing.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Raveen Surabhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rs743/Keychain-Sharing/issues"
+  },
+  "homepage": "https://github.com/rs743/Keychain-Sharing#readme"
+}
